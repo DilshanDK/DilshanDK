@@ -1,51 +1,57 @@
-<h1 align="center">Hi 👋, I'm Dilshan Kumara</h1>
-<h3 align="center">A Passionate Developer from Sri Lanka</h3>
-
-<br/>
+<h1 align="center">Hey, I'm Dilshan Kumara 👋</h1>
+<h3 align="center">Full Stack Developer | Mobile & Web Enthusiast | Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dilshandk" alt="dilshandk trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DilshanDK&theme=onestar" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🚀 UI/UX Highlights
+## 🚀 About Me
 
-- **Modern Visuals:** Animated gradients, glassmorphism navigation, and subtle floating elements for a sleek look.
-- **Interactive Animations:** Smooth card hovers, responsive transitions, and staggered loading effects.
-- **Personalized Dashboard:** Time-based greetings, real-time stats, and your recent bookings at a glance.
-- **Quick Access:** Fast shortcuts to common actions and a clean, touch-friendly mobile menu.
-- **Live Data:** Animated counters and up-to-date information, fully responsive on any device.
+- 💻 I build full-stack applications with **Laravel** (PHP), **Flutter** (Dart), and beautiful frontends.
+- 📱 Developed cross-platform **Flutter mobile apps** for seamless Android & iOS experiences.
+- 🌐 Crafted modern, responsive web pages with **HTML, CSS, JavaScript**.
+- 🎯 Passionate about UI/UX, smooth user flows, and eye-catching interfaces.
+- 📈 Always learning and exploring new tech.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,flutter,dart,java,js,html,css,mysql,git" />
 </p>
+
+---
+
+## 📱 Featured Projects
+
+- **Laravel API & Dashboard:** Robust, secure backends and modern admin panels.
+- **Flutter Mobile Apps:** Fast, beautiful apps with real-time data and clean UI.
+- **Web Pages:** Responsive landing pages, portfolios, and more.
+
+> Explore my pinned repositories below for code, screenshots, and live demos!
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshandk&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dilshandk&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DilshanDK&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilshanDK&layout=compact&theme=default" alt="Top Languages" height="150"/>
 </p>
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/dilshandk" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshandk" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DilshanDK&label=Profile%20views&color=0e75b6&style=flat" alt="DilshanDK" />
+</div>
