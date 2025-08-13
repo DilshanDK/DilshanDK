@@ -8,9 +8,6 @@
 
 Hi! I'm passionate about building **scalable, user-centric web and mobile applications** with clean, efficient code and modern UI/UX. From robust backends to sleek frontends, I love transforming ideas into reality with a focus on performance and design.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DilshanDK&theme=dracula&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies" />
-</p>
 
 ---
 
